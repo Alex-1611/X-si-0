@@ -1,6 +1,7 @@
 #include <iostream>
 #include <conio.h>
 
+
 using namespace std;
 
 char tabla[10] = { 'o','1','2','3','4','5','6','7','8','9' }, model_tabla[10] = { 'o','1','2','3','4','5','6','7','8','9' };
